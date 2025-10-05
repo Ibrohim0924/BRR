@@ -179,4 +179,4 @@ Ilovani barcha ekran o'lchamlari uchun moslashtirilgan:
 - Chrome 80+
 - Firefox 75+
 - Safari 13+
-- Edge 80+
+- Edge 80+# Frontend added
